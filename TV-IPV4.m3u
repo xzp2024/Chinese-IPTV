@@ -69,8 +69,5 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 tvg-id="btv1" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/btv1.png",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 
-#EXTINF:-1 tvg-id="btvchild" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/btvchild.png",卡酷动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-
 #EXTINF:-1 tvg-id="shenzhen" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/shenzhen.png",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
