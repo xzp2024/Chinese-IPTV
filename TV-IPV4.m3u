@@ -54,29 +54,23 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="cctv17.png",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+
 #EXTINF:-1 tvg-id="zhejiang" tvg-logo="zhejiang.png",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+
+#EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+
+#EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 
 #EXTINF:-1 tvg-id="btv1" tvg-logo="btv1.png",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 
 #EXTINF:-1 tvg-id="btvchild" tvg-logo="btvchild.png",卡酷动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-
-#EXTINF:-1 tvg-id="dongfang" tvg-logo="dongfang.png",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-
-#EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-
-#EXTINF:-1 tvg-id="guangdong" tvg-logo="guangdong.png",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-
-#EXTINF:-1 tvg-id="hunan" tvg-logo="hunan.png",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-
-#EXTINF:-1 tvg-id="jiangsu" tvg-logo="jiangsu.png",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 
 #EXTINF:-1 tvg-id="shenzhen" tvg-logo="shenzhen.png",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
