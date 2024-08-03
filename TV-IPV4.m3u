@@ -1,73 +1,73 @@
 #EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv1.png",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv2.png",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv2.png" group-title="央视频道",CCTV2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv3.png",CCTV3
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv3.png" group-title="央视频道",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv4.png",CCTV4
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv4.png" group-title="央视频道",CCTV4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv5.png",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv5.png" group-title="央视频道",CCTV5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv5plus.png",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv5plus.png" group-title="央视频道",CCTV5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv6.png",CCTV6
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv6.png" group-title="央视频道",CCTV6
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv7.png",CCTV7
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv7.png" group-title="央视频道",CCTV7
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv8.png",CCTV8
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv8.png" group-title="央视频道",CCTV8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctvjilu.png",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctvjilu.png" group-title="央视频道",CCTV9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv10.png",CCTV10
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv10.png" group-title="央视频道",CCTV10
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv11.png",CCTV11
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv11.png" group-title="央视频道",CCTV11
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv12.png",CCTV12
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv12.png" group-title="央视频道",CCTV12
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv13.png",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv13.png" group-title="央视频道",CCTV13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctvchild.png",CCTV14
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctvchild.png" group-title="央视频道",CCTV14
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv15.png",CCTV15
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv15.png" group-title="央视频道",CCTV15
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv16.png",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv16.png" group-title="央视频道",CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv17.png",CCTV17
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/cctv17.png" group-title="央视频道",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-#EXTINF:-1 tvg-id="hunan" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/hunan.png",湖南卫视
+#EXTINF:-1 tvg-id="hunan" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/hunan.png" group-title="卫视频道",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 
-#EXTINF:-1 tvg-id="zhejiang" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/zhejiang.png",浙江卫视
+#EXTINF:-1 tvg-id="zhejiang" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/zhejiang.png" group-title="卫视频道",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 
-#EXTINF:-1 tvg-id="jiangsu" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/jiangsu.png",江苏卫视
+#EXTINF:-1 tvg-id="jiangsu" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/jiangsu.png" group-title="卫视频道",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 
-#EXTINF:-1 tvg-id="dongfang" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/dongfang.png",东方卫视
+#EXTINF:-1 tvg-id="dongfang" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/dongfang.png" group-title="卫视频道",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 
-#EXTINF:-1 tvg-id="btv1" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/btv1.png",北京卫视
+#EXTINF:-1 tvg-id="btv1" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/btv1.png" group-title="卫视频道",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 
-#EXTINF:-1 tvg-id="shenzhen" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/shenzhen.png",深圳卫视
+#EXTINF:-1 tvg-id="shenzhen" tvg-logo="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/shenzhen.png" group-title="卫视频道",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
